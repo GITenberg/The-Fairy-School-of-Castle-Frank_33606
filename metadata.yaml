@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36471'
     url: http://www.gutenberg.org/2009/agents/36471
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33606#The-Fairy-School-of-Castle-Frank
 gutenberg_issued: '2010-09-02'
 gutenberg_type: Text
 identifiers:
